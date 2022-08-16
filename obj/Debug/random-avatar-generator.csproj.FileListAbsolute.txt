@@ -1,0 +1,8 @@
+C:\Users\bsame\Desktop\Projeler vs\C#\random-avatar-generator\bin\Debug\random-avatar-generator.exe.config
+C:\Users\bsame\Desktop\Projeler vs\C#\random-avatar-generator\bin\Debug\random-avatar-generator.exe
+C:\Users\bsame\Desktop\Projeler vs\C#\random-avatar-generator\bin\Debug\random-avatar-generator.pdb
+C:\Users\bsame\Desktop\Projeler vs\C#\random-avatar-generator\obj\Debug\random-avatar-generator.csproj.AssemblyReference.cache
+C:\Users\bsame\Desktop\Projeler vs\C#\random-avatar-generator\obj\Debug\random-avatar-generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\bsame\Desktop\Projeler vs\C#\random-avatar-generator\obj\Debug\random-avatar-generator.csproj.CoreCompileInputs.cache
+C:\Users\bsame\Desktop\Projeler vs\C#\random-avatar-generator\obj\Debug\random-avatar-generator.exe
+C:\Users\bsame\Desktop\Projeler vs\C#\random-avatar-generator\obj\Debug\random-avatar-generator.pdb
